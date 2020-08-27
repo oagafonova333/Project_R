@@ -1,0 +1,18 @@
+
+<config>
+  
+  <data>
+      
+    <predictors>service_workers_percent_of_employment.csv, agriculture_workers_percent_of_employment.csv, industry_workers_percent_of_employment.csv</predictors>
+    <target>economic_growth_over_the_past_10_years.csv</target>
+      
+    <prediction>
+      <country>Russia</country>
+      <year>2004</year>
+    </prediction>
+    
+  </data>
+  
+  <testRate>0.2</testRate>
+  <outputFile>output</outputFile>
+</config>

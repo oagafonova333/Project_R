@@ -1,0 +1,10 @@
+Package: R_project
+Title: Economic growth 
+Version: 0.1
+Authors: Olga, Oda, Diomendes
+Description: This package helps to predict the growth of the economy in the specific country depending on the size of one or another one industry size
+Depends: R (>= 3.1.0)
+License: No license
+LazyData: true
+RoxygenNote: 7.1.1
+Encoding: UTF-8

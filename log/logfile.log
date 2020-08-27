@@ -1,0 +1,124 @@
+2020-07-03 13:15:53 INFO:log:Inicio programa
+2020-07-03 13:16:02 INFO:log:Leyendo path
+2020-07-03 13:16:11 ERROR:log:Config was not find on the path. Check if it´s call config.xml
+2020-07-03 13:16:11 ERROR:log:ERROR, ERROR, ERROR
+2020-07-03 13:17:11 INFO:log:Inicio programa
+2020-07-03 13:17:11 INFO:log:Leyendo path
+2020-07-03 13:17:31 INFO:log:Fin de la ejecucion.
+2020-07-03 13:17:45 INFO:log:Inicio programa
+2020-07-03 13:17:45 INFO:log:Leyendo path
+2020-07-03 13:17:49 ERROR:log:Config was not find on the path. Check if it´s call config.xml
+2020-07-03 13:17:49 ERROR:log:ERROR, ERROR, ERROR
+2020-07-03 13:17:49 INFO:log:Fin de la ejecucion.
+2020-07-03 13:18:17 INFO:log:Inicio programa
+2020-07-03 13:18:17 INFO:log:Leyendo path
+2020-07-03 13:18:22 INFO:log:Config readed.
+2020-07-03 13:19:31 INFO:log:Fin de la ejecucion.
+2020-07-03 13:19:39 INFO:log:Inicio programa
+2020-07-03 13:19:39 INFO:log:Leyendo path
+2020-07-03 13:19:46 INFO:log:Config readed.
+2020-07-03 13:20:39 INFO:log:Fin de la ejecucion.
+2020-07-03 13:20:48 INFO:log:Inicio programa
+2020-07-03 13:20:48 INFO:log:Leyendo path
+2020-07-03 13:20:53 INFO:log:Config readed.
+2020-07-03 13:26:02 INFO:log:Fin de la ejecucion.
+2020-07-10 12:48:19 INFO:log:Inicio programa
+2020-07-10 12:48:21 INFO:log:Leyendo path
+2020-07-10 12:48:23 INFO:log:Config readed.
+2020-07-10 12:48:23 ERROR:log:Los nodos: nodoPrincipal estan mal estructurados!
+2020-07-10 12:48:23 ERROR:log:ERROR, ERROR, ERROR
+2020-07-10 12:50:02 INFO:log:Inicio programa
+2020-07-10 12:50:20 INFO:log:Leyendo path
+2020-07-10 12:50:41 INFO:log:Config readed.
+2020-07-10 12:50:43 ERROR:log:Los nodos: nodoPrincipal estan mal estructurados!
+2020-07-10 12:50:43 ERROR:log:ERROR, ERROR, ERROR
+2020-07-10 12:52:13 INFO:log:Inicio programa
+2020-07-10 12:52:17 INFO:log:Leyendo path
+2020-07-10 12:52:45 INFO:log:Config readed.
+2020-07-10 12:52:53 ERROR:log:Los nodos: nodoPrincipal estan mal estructurados!
+2020-07-10 12:52:53 ERROR:log:ERROR, ERROR, ERROR
+2020-07-10 12:56:17 INFO:log:Inicio programa
+2020-07-10 12:56:20 INFO:log:Leyendo path
+2020-07-10 12:56:32 INFO:log:Config readed.
+2020-07-10 12:57:35 ERROR:log:ERROR, ERROR, ERROR
+2020-07-10 12:59:49 INFO:log:Inicio programa
+2020-07-10 12:59:51 INFO:log:Leyendo path
+2020-07-10 12:59:59 INFO:log:Config readed.
+2020-07-10 13:01:27 ERROR:log:ERROR, ERROR, ERROR
+2020-07-10 13:02:25 INFO:log:Inicio programa
+2020-07-10 13:02:27 INFO:log:Leyendo path
+2020-07-10 13:02:34 INFO:log:Config readed.
+2020-07-10 13:03:07 INFO:log:Path leido
+2020-07-10 13:03:08 INFO:log:Limpiando datos
+2020-07-10 13:03:09 INFO:log:hola
+2020-07-10 13:03:12 INFO:log:Datos limpios
+2020-07-10 13:03:13 INFO:log:Reconvirtiendo los datos
+2020-07-10 13:03:14 ERROR:log:ERROR, ERROR, ERROR
+2020-07-10 13:04:17 INFO:log:Inicio programa
+2020-07-10 13:04:17 INFO:log:Leyendo path
+2020-07-10 13:04:18 INFO:log:Config readed.
+2020-07-10 13:04:54 INFO:log:Path leido
+2020-07-10 13:04:59 INFO:log:Limpiando datos
+2020-07-10 13:05:34 INFO:log:hola
+2020-07-10 13:05:40 INFO:log:Datos limpios
+2020-07-10 13:05:42 INFO:log:Reconvirtiendo los datos
+2020-07-10 13:05:43 ERROR:log:ERROR, ERROR, ERROR
+2020-07-10 13:08:21 INFO:log:Inicio programa
+2020-07-10 13:08:21 INFO:log:Leyendo path
+2020-07-10 13:08:22 INFO:log:Config readed.
+2020-07-10 13:08:23 INFO:log:Path leido
+2020-07-10 13:08:24 INFO:log:Limpiando datos
+2020-07-10 13:09:37 INFO:log:hola
+2020-07-10 13:09:38 INFO:log:Datos limpios
+2020-07-10 13:09:46 INFO:log:Reconvirtiendo los datos
+2020-07-10 13:10:03 ERROR:log:ERROR, ERROR, ERROR
+2020-07-10 13:13:26 INFO:log:Inicio programa
+2020-07-10 13:13:27 INFO:log:Leyendo path
+2020-07-10 13:14:16 INFO:log:Config readed.
+2020-07-10 13:14:17 INFO:log:Path leido
+2020-07-10 13:14:21 INFO:log:Limpiando datos
+2020-07-10 13:14:25 INFO:log:hola
+2020-07-10 13:14:26 INFO:log:Datos limpios
+2020-07-10 13:14:31 INFO:log:Reconvirtiendo los datos
+2020-07-10 13:45:43 INFO:log:Inicio programa
+2020-07-10 13:45:44 INFO:log:Leyendo path
+2020-07-10 13:45:46 INFO:log:Config readed.
+2020-07-10 13:45:46 ERROR:log:Los nodos: nodoPrincipal estan mal estructurados!
+2020-07-10 13:45:46 ERROR:log:ERROR, ERROR, ERROR
+2020-07-10 14:59:41 INFO:log:Inicio programa
+2020-07-10 14:59:46 INFO:log:Leyendo path
+2020-07-10 14:59:59 INFO:log:Config readed.
+2020-07-10 15:00:01 ERROR:log:Los nodos: nodoPrincipal estan mal estructurados!
+2020-07-10 15:00:01 ERROR:log:ERROR, ERROR, ERROR
+2020-07-10 15:10:12 INFO:log:Inicio programa
+2020-07-10 15:10:15 INFO:log:Leyendo path
+2020-07-10 15:10:16 INFO:log:Config readed.
+2020-07-10 15:10:16 INFO:log:Path leido
+2020-07-10 15:10:17 INFO:log:Limpiando datos
+2020-07-10 15:10:18 INFO:log:hola
+2020-07-10 15:10:18 INFO:log:Datos limpios
+2020-07-10 15:10:38 INFO:log:Reconvirtiendo los datos
+2020-07-10 15:10:44 INFO:log:Datos reconvertidos
+2020-07-10 15:10:46 INFO:log:Cargando en modelo de ML
+2020-07-10 15:10:51 INFO:log:Resumen de modelo de ML
+2020-07-10 15:10:51 INFO:log:Resumen de modelo de ML terminado
+2020-07-10 15:11:17 INFO:log:Modelo de ML generado
+2020-07-10 15:11:36 INFO:log:Generar output
+2020-07-10 15:11:38 INFO:log:Output generado
+2020-07-10 15:11:41 INFO:log:Fin de la ejecucion.
+2020-07-10 16:00:52 INFO:log:Inicio programa
+2020-07-10 16:00:52 INFO:log:Leyendo config
+2020-07-10 16:00:53 INFO:log:Config readed.
+2020-07-10 16:00:53 INFO:log:Config leido
+2020-07-10 16:00:55 INFO:log:Leyendo datos
+2020-07-10 16:00:57 INFO:log:hola
+2020-07-10 16:00:58 INFO:log:Datos leidos
+2020-07-10 16:00:58 INFO:log:Reconvirtiendo los datos
+2020-07-10 16:00:59 INFO:log:Datos reconvertidos
+2020-07-10 16:01:00 INFO:log:Cargando en modelo de ML
+2020-07-10 16:01:02 INFO:log:Resumen de modelo de ML
+2020-07-10 16:01:02 INFO:log:Resumen de modelo de ML terminado
+2020-07-10 16:01:07 INFO:log:Modelo de ML generado
+2020-07-10 16:01:09 INFO:log:Generar output
+2020-07-10 16:01:11 INFO:log:Output generado
+2020-07-10 16:01:12 INFO:log:Fin de la ejecucion.
